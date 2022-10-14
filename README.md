@@ -1,0 +1,13 @@
+# 👋 Hi, I’m @ProbablyStupid
+
+- I love Java and C++
+- I'm very interested in game development and game engine development
+- I'm pretty much always down for anything so you can reach me via:
+--------------------------------------------------------------------
+ Discord: Probably Stupid#0620 | E-Mail: thomas.kaliwe@outlook.com
+--------------------------------------------------------------------
+
+<!---
+ProbablyStupid/ProbablyStupid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
