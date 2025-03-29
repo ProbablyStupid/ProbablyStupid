@@ -2,9 +2,9 @@
 
 - I love Java and C++
 - I'm very interested in game development and game engine development
-- I'm pretty much always down for anything so you can reach me via:
+
 --------------------------------------------------------------------
- Discord: Probably Stupid#0620 | E-Mail: thomas.kaliwe@outlook.com
+ Discord: Probably Stupid#0620 | E-Mail: celeste-kaliwe@outlook.com
 --------------------------------------------------------------------
 
 <!---
